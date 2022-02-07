@@ -18,3 +18,11 @@ a[href^="http"]{
 a[title]{
     color: red
 }
+
+a:hover {
+    color: red;
+}
+
+#content-header:hover{
+    background: red;
+}
