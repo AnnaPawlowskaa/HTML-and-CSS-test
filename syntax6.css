@@ -1,0 +1,22 @@
+.block {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+}
+
+.inline {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    margin: 10px;
+    background: grey;
+    color: black;
+    text-decoration: none;
+    display: block;
+    border: 1px solid #803
+}
