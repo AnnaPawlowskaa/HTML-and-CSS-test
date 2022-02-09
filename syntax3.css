@@ -1,0 +1,23 @@
+article p:first-child {
+    font-weight: bold;
+}
+
+article p:last-of-type{
+    color: red;
+}
+
+article p:nth-child(3){
+    background: rosybrown;
+}
+
+li:nth-child(even){
+    background: grey;
+}
+
+li:nth-child(odd){
+    background: pink;
+}
+
+article:nth-of-type(2){
+    font-weight: bolder;
+}
