@@ -1,0 +1,26 @@
+.static-width {
+    width: 600px;
+    height: 600px;
+    background-color: #606060;
+    background-image: url(https://logodix.com/logo/1330714.png);
+    margin: 20px;
+}
+
+.static-width2 {
+    width: 600px;
+    height: 600px;
+    background-color: #606060;
+    background-image: url(https://logodix.com/logo/1330714.png);
+    background-repeat: round;
+    margin: 20px;
+}
+
+.static-width3 {
+    width: 600px;
+    height: 600px;
+    background-color: #606060;
+    background-image: url(https://logodix.com/logo/1330714.png);
+    background-repeat: no-repeat;
+    background-position: 20% 30%;
+    margin: 20px;
+}
