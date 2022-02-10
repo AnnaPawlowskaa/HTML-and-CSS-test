@@ -1,0 +1,9 @@
+.static-width{
+    background-color: #606060;
+    width: 800px;
+    height: 800px;
+    background-image: url(https://logodix.com/logo/1330714.png), url(https://alexnld.com/wp-content/uploads/2017/09/HC4628.jpg);
+    background-repeat: no-repeat;
+    background-position: top center, top left;
+    background-size: 200px, 100%;
+}
